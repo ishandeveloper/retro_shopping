@@ -1,4 +1,4 @@
-# Retro Shopping
+# Relic Bazaar
 
 A new Flutter project for #Hack20.
 
